@@ -6,13 +6,19 @@
 **email:** *sssmakovka@gmail.com*  
 **skype:** *sssmakovka*  
 **[My LinkedIn](https://www.linkedin.com/in/svetlanamakridina/)**   
-**Skills:**     
-            *Java Script       
-            *HTML   
-            *CSS.*  
+**Skills:**       
+            * Java Script             
+            * HTML       
+            * CSS.    
 **Experience:** I'm going to place links on my projects here.  
 **Education:** HTML_Academy online, RSSchool, SC50 course (Java Rush).  
-**English:**   
-             *speaking, listeining - pre-intermediate    
-             * reading, writing - intermediate  
-             *I have classes with my tutorial twice a week and study English every day by making exercises on Online English study sites.    
+**English:**     
+             * Speaking       
+                  * Pre-Intermediate    
+             * listeining     
+                  * Pre-Intermediate      
+             * reading  
+                  * Intermediate  
+             * writing   
+                  * Intermediate    
+             * I have classes with my tutorial twice a week and study English every day by making exercises on Online English study sites.    
