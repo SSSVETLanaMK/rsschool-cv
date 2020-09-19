@@ -1,12 +1,13 @@
 #### Looking for position Front-End Developer  
-**Name:** *Makridina Svetlana*      
+**Name:** *Makridina Svetlana*  
+    
 **Contact me by:**    
 **tel:** *+375(25)530-91-06*    
 **email:** *sssmakovka@gmail.com*  
 **skype:** *sssmakovka*  
-**[My LinkedIn](linkedin.com/in/svetlanamakridina)**   
+**[My LinkedIn](https://www.linkedin.com/in/svetlanamakridina/)**   
 **Skills:** *Java Script   
-            *HTML,   
+            *HTML   
             *CSS.*  
 **Experience:** - I'm going to place links on my projects here.  
 **Education:** HTML_Academy online, RSSchool, SC50 course (Java Rush).  
